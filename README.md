@@ -22,7 +22,7 @@ There are a lot of DSAs that are part of this.
 
 ## 3) OpenCV
 
-- As always, the Documentation is always good, but way too general:[here](https://docs.opencv.org/4.7.0/)
+- As always, the Documentation is always good, but way too general: [here](https://docs.opencv.org/4.7.0/)
 
 - Introduction: [C++](https://github.com/murtazahassan/Learn-OpenCV-cpp-in-4-Hours) and [Python](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
 
