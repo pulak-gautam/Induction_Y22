@@ -26,7 +26,7 @@ There are a lot of DSAs that are part of this.
 
 - Introduction: [C++](https://github.com/murtazahassan/Learn-OpenCV-cpp-in-4-Hours) and [Python](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
 
-> Pretty long. Recommended to look a the code given and see the end products. One can skip over the part where the code is being written. Don't worry, it won't take more than 2 hours to familiarize yourself
+> Pretty long. Recommended to look a the code given and see the end products. You can skip over the part where the code is being written. Don't worry, it won't take more than 2 hours to familiarize yourself
 
 - Knowing the concepts always helps: [Theory](https://web.stanford.edu/class/ee368/handouts.html)
 
