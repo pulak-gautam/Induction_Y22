@@ -239,3 +239,5 @@ Here are some Python codes for [robotics algorithms](https://github.com/AtsushiS
 > This is optional.
 
 - Once you are familiar with this, moving on to solving some [examples](https://iitmcvg.github.io/problem_statements/Problem_statements/)
+
+- Read more about multiprocessing and multithreading [here] (https://towardsdatascience.com/multithreading-and-multiprocessing-in-10-minutes-20d9b3c6a867)
