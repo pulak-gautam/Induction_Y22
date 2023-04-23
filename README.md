@@ -135,4 +135,4 @@ Here are some Python codes for [robotics algorithms](https://github.com/AtsushiS
  
 > This is optional.
 
-- Once you are familiar with this, moving on to solving some [examples](!!!!!!)
+- Once you are familiar with this, moving on to solving some [examples](https://iitmcvg.github.io/problem_statements/Problem_statements/)
