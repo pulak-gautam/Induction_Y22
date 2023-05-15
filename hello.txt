@@ -1,3 +1,7 @@
 Hello
 git_trial
+<<<<<<< HEAD
 We are ARIITK
+=======
+Yo
+>>>>>>> 28a668f6c4ea7aa28d9e2f1820f3fe457c396ec2
