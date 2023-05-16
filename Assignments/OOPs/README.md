@@ -35,7 +35,7 @@ You have been hired by the IRCTC (sad) to design an Train Booking System. The Sy
 
 <p>&nbsp;&nbsp;&nbsp;</p>
 
-![alt text](/Assignments/OOPs/class.png)
+![alt text](./class.png)
 
 ---
 
