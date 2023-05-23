@@ -115,7 +115,7 @@ The above example can be treated as a test case.
 
 - Here is the Github <a href="https://github.com/AerialRobotics-IITK/Induction_Y22">link</a>
 - Update the fork's main branch and subsequently push the code into your own branch
-- Then create a pull request by 11:59:59, 24th May 2023
+- Then create a pull request by 11:59:59, 25th May 2023
 - In case of any doubts, create an issue on the main repo (And DM me or any of the others too :) )
 - Again, irrespective of task completion I would be expecting all 19 Pull requests on time.
 
