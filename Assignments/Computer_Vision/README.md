@@ -2,6 +2,7 @@
 
 You are supposed to write a code which takes your video input and removes the background of the image. This might initially appear hard but this if seen stepwise is not that hard. Generally, other things are used for this task, however, we are using this simple method(Even though highly inacurate)
 You have to run the masking and centroid commands on the two images which have been attached considering, one as a foreground and one the other as the background.
+*NOTE*:All you have to do is follow the instructions below step by step. 
 
 ---
 
