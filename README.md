@@ -10,7 +10,7 @@ As everything is a file, so to manage all the files (whether large or small) man
 
 #### Files in Unix Subsystem
 
-1. Files in unix file system are arranged heirarchy with on the top being **Root** file denoted by **/**.
+1. Files in unix file system are arranged heirarchy with on the top being **Root** file denoted by **/anb fsdnbfnsbdf**.
 2. Under Root directory there are multiple directories and one of them being **~** --> **Home** Directory .
 3. There are others as well, some of them are listed below:
    - **/bin** --> contains binary files.
